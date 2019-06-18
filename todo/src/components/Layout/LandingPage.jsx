@@ -32,7 +32,7 @@ function LandingPage() {
 	return (
 		<HomePage>
 			<div>
-				<Header as='h1'>Your Personal Note Taking App</Header>
+				<Header as='h1'>Your Personal Todo List</Header>
 				<div>
 					<Link to='/login'>
 						<Button primary>Login</Button>
